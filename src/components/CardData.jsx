@@ -8,7 +8,7 @@ export const CardsData = [
     },
     {
         image:
-            'https://pbs.twimg.com/media/EsiRpeiXMAIP6eg.png',
+            'https://rollingstone.uol.com.br/media/uploads/emma_watson_como_hermione_granger_em_harry_potter_foto_reproducao__twitter.jpg',
         name: "Hermione Granger",
         profession: "Tech Lead",
         hobbies: "Time travelling"
